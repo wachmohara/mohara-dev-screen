@@ -1,0 +1,4 @@
+export const Events = {
+  PRODUCT_FETCH: 'PRODUCT_FETCH',
+  ADD_BOOKING: 'ADD_BOOKING'
+}

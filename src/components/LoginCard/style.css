@@ -1,0 +1,21 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.card-container .card-container__box {
+  width: 480px;
+  height: 600px;
+  border-radius: 0.3rem;
+  box-shadow: 1px 1px 10px #282c3462;
+}
+
+.card-container .card-container__box .card-container__box--input {
+  display: block;
+  width: 200px;
+  height: 40px;
+  font-size: 25px;
+}
