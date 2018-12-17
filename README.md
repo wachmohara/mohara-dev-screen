@@ -21,7 +21,7 @@ $ npm install
   - shadow 1px blur 6 px
 - Avartar area 480*342 px background image opacity 37% ( fine out image at assets folder )
   - Make avatar look same design
-- Input text look same desingn just only buttom underline input text even username/password
+- Input text look same design just only buttom underline input text even username/password
 - Button border-radius 10px background color #027F7F text color #ffffff
 
 **What we wloud like to see on this**
